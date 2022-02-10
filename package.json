@@ -19,7 +19,7 @@
   "homepage": "https://github.com/thruthesky/teacher-intro#readme",
   "dependencies": {
     "chokidar": "^3.4.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "socket.io": "^2.3.0"
   }
 }
